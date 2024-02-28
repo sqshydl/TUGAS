@@ -1,0 +1,14 @@
+{
+  "name": "punya_tora",
+  "version": "1.0.0",
+  "description": "Tugas Matkul Pem Grafis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tora",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
